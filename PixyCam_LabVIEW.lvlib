@@ -42,9 +42,7 @@
 		<Item Name="PixyCam_SerialWordConstants.ctl" Type="VI" URL="../Private/PixyCam_SerialWordConstants.ctl">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
-		<Item Name="PixyCam_SPI_DevRef.ctl" Type="VI" URL="../Private/PixyCam_SPI_DevRef.ctl">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
+		<Item Name="PixyCam_SPI_DevRef.ctl" Type="VI" URL="../Private/PixyCam_SPI_DevRef.ctl"/>
 		<Item Name="PixyCam_TargetData.ctl" Type="VI" URL="../Private/PixyCam_TargetData.ctl"/>
 		<Item Name="PixyCam_TargetStore.vi" Type="VI" URL="../Private/PixyCam_TargetStore.vi">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
